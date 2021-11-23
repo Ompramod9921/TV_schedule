@@ -1,0 +1,4 @@
+pandas==1.3.2
+streamlit==0.88.0
+requests==2.26.0
+
